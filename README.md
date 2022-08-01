@@ -2,6 +2,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/gabriel-bri/ccufcqx)](https://repl.it/github/gabriel-bri/ccufcqx)
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
+
 ![35%](https://progress-bar.dev/35?title=Progresso+no+curso:)
 
 #
