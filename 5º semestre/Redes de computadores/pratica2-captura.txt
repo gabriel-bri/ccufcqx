@@ -1,0 +1,11 @@
+Prática INDIVIDUAL de captura e análise de tráfego
+1. Instale o Wireshark (www.wireshark.com)
+2. Abra o site e leia: http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2012/09/como-usar-o-wireshark.amp
+3. Abra o Wireshark e inicie uma captura de rede na placa de rede correta (a que está sendo usada)
+4. Abra (no navegador) um site cujo endereço não está no cache do DNS
+5. Pare a captura
+6. Ache a consulta DNS do site que você acessou. Se necessário, use os filtros aprendidos em (2)
+7. Calcule EXATAMENTE o valor do RTT (tempo de ida e volta, entre o envio do pedido e a resposta) da solicitação DNS
+8. Chame o professor* e mostre a captura e o resultado
+---
+*AULAS REMOTAS: salve o tráfego capturado no arquivo <fulano>-pratica2.pcap e envie por e-mail para arthur@ufc.br até o dia 03 de Dezembro com o assunto PRATICA 2. No corpo do e-mail, indique o site usado e coloque o valor calculado no passo 7, em segundos. Só corrigirei a prática cujo arquivo de captura estiver com menos de 500KB.
