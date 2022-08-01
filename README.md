@@ -1,11 +1,20 @@
 
-
-
-
 [![Run on Repl.it](https://repl.it/badge/github/gabriel-bri/ccufcqx)](https://repl.it/github/gabriel-bri/ccufcqx)
 
-Repositório do meu curso de Ciência da Computação 2020.1
+Repositório do meu curso de Ciência da Computação iniciado em 2020.1
+![35%](https://progress-bar.dev/35?title=Progresso+no+curso:)
 
+#
+> ### Algumas observações importantes:
+>##### 1 - No nome de alguns professores contém os links para seus respectivos respositórios no Github.
+>##### 2 - As disciplinas estão separadas de acordo com cada semestre.
+>##### 3 - O uso dos materiais aqui contidos são de inteira e responsabilidade sua, alguns códigos podem conter erros ou bugs.
+>##### 4 - Sinta-se livre para fazer qualquer alteração ou questionamento
+#
+
+Legenda da tabela:
+:heavy_check_mark: Disciplina concluída.
+:x: Ainda a ser feita.
 
 <h1  align="center">1º semestre.</h1>
 
