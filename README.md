@@ -1,6 +1,7 @@
 
 
 
+
 [![Run on Repl.it](https://repl.it/badge/github/gabriel-bri/ccufcqx)](https://repl.it/github/gabriel-bri/ccufcqx)
 
 Repositório do meu curso de Ciência da Computação 2020.1
@@ -61,4 +62,61 @@ Status:| Disciplina: | Professor:
 :x: | Álgebra Linear|
 :heavy_check_mark: | Análise e Projeto de Sistemas|ENYO JOSE TAVARES GONCALVES
 
+</div>
+
+<h1  align="center">5º semestre.</h1>
+
+<div align="center">
+
+Status:| Disciplina: | Professor:
+:---:|:---|:---
+:x: | Compiladores |
+:x: | Computação Gráfica |
+:x: | Matemática Computacional |
+:heavy_check_mark: | Redes de Computadores| ARTHUR DE CASTRO CALLADO
+:heavy_check_mark: | Desenvolvimento de Software para Web|<a href="" targe="_blank">JEFFERSON DE CARVALHO SILVA</a>
+
+</div>
+
+<h1  align="center">6º semestre.</h1>
+
+<div align="center">
+
+Status:| Disciplina: | Professor:
+:---:|:---|:---
+:heavy_check_mark: | Engenharia de Software | ANTONIA DIANA BRAGA NOGUEIRA
+:x: | Interface Humano-Computador |
+:x: | Sistemas Distribuídos |
+:x: | Inteligência Artificial 
+:x: | Teoria da Computação |
+
+</div>
+
+<h1  align="center">7º semestre.</h1>
+<div align="center">
+
+Status:| Disciplina: | Professor:
+:---:|:---|:---
+:x: | Projeto de Pesquisa Científica e Tecnológica | 
+:x: | Trabalho de Conclusão de Curso I |
+:x: | Estágio Supervisionado I |
+:x: | Empreendedorismo 
+
+</div>
+
+<h1  align="center">8º semestre.</h1>
+<div align="center">
+
+Status:| Disciplina: | Professor:
+:---:|:---|:---
+:x: | Trabalho de Conclusão de Curso II | 
+:x: | Estágio Supervisionado II |
+</div>
+
+<h1  align="center">Optativas</h1>
+<div align="center">
+
+Status:| Disciplina: | Professor:
+:---:|:---|:---
+:heavy_check_mark: | Segurança | MARCOS DANTAS ORTIZ
 </div>
