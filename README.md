@@ -14,7 +14,8 @@ Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 #
 
 Legenda da tabela:
-:heavy_check_mark: Disciplina concluída.
+
+:heavy_check_mark: Disciplina concluída.<br>
 :x: Ainda a ser feita.
 
 <h1  align="center">1º semestre.</h1>
