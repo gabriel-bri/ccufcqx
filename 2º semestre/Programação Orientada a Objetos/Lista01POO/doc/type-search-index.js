@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"exercicios","l":"Desafio"},{"p":"exercicios","l":"Exercicio1"},{"p":"exercicios","l":"Exercicio2"},{"p":"exercicios","l":"Exercicio3"},{"p":"exercicios","l":"Exercicio4"},{"p":"exercicios","l":"Exercicio5"},{"p":"exercicios","l":"Exercicio6"},{"p":"exercicios","l":"TestaSplit"}]
