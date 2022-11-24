@@ -1,0 +1,15 @@
+{
+  "alunos": [],
+  "professores": [
+    {
+      "nome": "Aragão",
+      "curso": "ES"
+    }
+  ],
+  "disciplinas": [
+    {
+      "nome": "Fundamentos de programação",
+      "curso": "SI"
+    }
+  ]
+}
