@@ -130,4 +130,5 @@ Status:| Disciplina: | Professor:
 Status:| Disciplina: | Professor:
 :---:|:---|:---
 :heavy_check_mark: | Segurança | MARCOS DANTAS ORTIZ
+:heavy_check_mark: | História do Design | ROCHELLE SILVEIRA LIMA
 </div>
