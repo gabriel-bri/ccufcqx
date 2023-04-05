@@ -58,7 +58,7 @@ Para o caso da árvore abaixo, temos essa saída.
 
 //bshow()
 
-![Árvore](arvore2.png)
+![Árvore](img/arvore2.png)
 ```
 Para simplificar o código, estou utilizando a convenção `_` para expressar quais são os métodos privados.
 
