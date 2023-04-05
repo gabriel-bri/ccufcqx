@@ -57,9 +57,9 @@ Para o caso da árvore abaixo, temos essa saída.
 1 8 7 # # 4 # 6 # # 5 0 # # 9 # 3 2 # # #
 
 //bshow()
-
-![Árvore](img/arvore2.png)
 ```
+![Árvore binária](img/arvore2.png)
+
 Para simplificar o código, estou utilizando a convenção `_` para expressar quais são os métodos privados.
 
 Os locais onde você deve colocar seu código estão marcados com //TODO. Como estamos lidando com árvores,
