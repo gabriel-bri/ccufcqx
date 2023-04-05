@@ -12,6 +12,8 @@ final de uma string que inicialmente começa vazia, sendo que, para cada filho n
 
 Por exemplo, logo abaixo mostramos o desenho de uma árvore e depois a string obtida pela serialização de suas chaves:
 
+![Árvore binária](img/arvore.png)
+
 A serialização da árvore acima consiste na string:
 
 **8 3 1 # # 6 4 # # 7 # # 10 # 14 13 # # #**
