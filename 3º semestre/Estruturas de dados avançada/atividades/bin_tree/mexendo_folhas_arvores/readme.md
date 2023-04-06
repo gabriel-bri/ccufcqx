@@ -1,4 +1,4 @@
-# Atividade
+# Atividade.
 
 Para esta atividade, é pedido que você incremente a implementação da árvore binária generalizada, implementando as seguintes funções adicionais:
 
