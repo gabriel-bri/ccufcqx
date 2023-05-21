@@ -41,7 +41,7 @@ Status:| Disciplina: | Professor:
 :---:|:---|:---
 :heavy_check_mark: | Programação Orientada a Objetos | <a href="https://github.com/liviaalmada" target="_blank">LIVIA ALMADA CRUZ</a> 
 :heavy_check_mark: | Sistemas Operacionais | CRISTIANO BACELAR DE OLIVEIRA 
-:heavy_check_mark: | Estrutura de Dados| <a href="https://github.com/senapk" target="_blank">DAVID SENA OLIVEIRA</a>, ATILIO GOMES LUIZ
+:heavy_check_mark: | Estrutura de Dados| <a href="https://github.com/senapk" target="_blank">DAVID SENA OLIVEIRA</a>, <a href="https://github.com/Atilio-Luiz" target="_blank">ATILIO GOMES LUIZ</a>
 :x: | Cálculo Diferencial e Integral I |
 :x: | Matemática Discreta |
 
