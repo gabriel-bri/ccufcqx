@@ -48,7 +48,8 @@ Os locais onde você deve colocar seu código estão marcados com //TODO. Como e
 você deverá criar também os métodos recursivos privados e os métodos públicos.
 
 
-Testes
+## Testes
+```
 >>>>>>>> um
 0 4 # # 2 0 # # 3 # # 
 2
@@ -103,7 +104,7 @@ Testes
 1 4 6 5
 1 4 6 5
 <<<<<<<<
-
+```
 
 ## Arquivos requeridos
 
