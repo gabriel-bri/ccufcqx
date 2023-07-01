@@ -39,26 +39,6 @@ Para encontrar o 2 na árvore abaixo, seguimos o caminho rrrlx
 //a função recursiva find deve retornar uma sequencia o path até o destino com x no final
 string find_path(Node * root, int value);
 
-
-## Ajuda
-
-A atividade já vem com um código implementado para você seguir como ponto de partida.
-
-O método `bshow` da árvore imprime a árvore em um formato amigável. Você pode utilizá-lo para conferir se seu código está funcionando corretamente.
-
-Para o caso da árvore abaixo, temos essa saída.
-
-
-
-
-
-
-Para simplificar o código, estou utilizando a convenção `_` para expressar quais são os métodos privados.
-
-Os locais onde você deve colocar seu código estão marcados com //TODO. Como estamos lidando com árvores,
-
-você deverá criar também os métodos recursivos privados e os métodos públicos.
-
 ## Testes
 
 ```
