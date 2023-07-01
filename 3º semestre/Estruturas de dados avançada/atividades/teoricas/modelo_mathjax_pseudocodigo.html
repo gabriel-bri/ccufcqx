@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Modelo de uso do MathJax (HTML+Latex)</title>
+
+  <!-- MATHJAX 3 (através da CDN) -->
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- MATHJAX 3 (salvo no computador) -->
+  <!-- <script type="text/javascript" async src="../../../Aplicativos/MathJax-master/es5/tex-mml-chtml.js" async></script> -->
+</head>
+<body>
+ 
+      <p>
+
+          <pre><code>
+            Algoritmo: SUMIDOURO_UNIVERSAL(G,n)
+              Entrada: grafo direcionado G como uma matriz de adjacências A, e número de vértices n
+              Saída: o sumidouro universal se existir, ou -1 caso contrário
+    
+            01.  seja L uma lista duplamente encadeada vazia
+            02.  para u = 1 até n faça 
+            03.    L.push_back(u)
+            04.  
+            05.  para i = 1 até n-1 faça 
+            06.    u = L.pop_front()
+            07.    v = L.pop_front()
+            08.    se A[u][v] == 1 então 
+            09.      L.push_front(v)
+            10.    senão 
+            11.      L.push_front(u)
+            12.
+            13.  u = L.pop_front()
+            14.  para i = 1 até n faça 
+            15.    se A[i][u] != 1 então 
+            16.      devolva -1 
+            17.    se u != i && A[u][i] != 0 então  
+            18.      devolva -1
+            19.  devolva u
+          </pre></code>
+
+        
+      </p>
+    
+
+    
+
+</body>
+</html>

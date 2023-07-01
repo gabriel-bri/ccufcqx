@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Modelo de uso do MathJax (HTML+Latex)</title>
+
+  <!-- MATHJAX 3 (através da CDN) -->
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- MATHJAX 3 (salvo no computador) -->
+  <!-- <script type="text/javascript" async src="../../../Aplicativos/MathJax-master/es5/tex-mml-chtml.js" async></script> -->
+</head>
+<body>
+  <h1>Questões</h1>
+
+  <p>
+    As repostas podem ser enviadas como MathJax ou como pdf produzido com latex ou word. 
+    Não serão aceitas atividades feitas à mão e/ou escaneadas.
+  </p>
+
+  
+
+  <p>
+    <hr>
+  </p>
+
+  <p>
+    <strong>Questão 1:</strong> 
+    Escreva pseudocódigos para os procedimentos <strong>decreaseKey(A,i,newKey), minMoveDown(A, i), minMoveUp(A,i), 
+      increaseKey(A,i,newKey), minHeapInsert(A,key) e extractMinimum(A)</strong>, 
+    que implementem uma fila de prioridade mínima com um heap de mínimo. 
+    <strong>Obs.:</strong> Note que todos esses procedimentos são versões similares às vistas em sala, 
+    só que aqui estou pedindo para uma fila de prioridades mínima.
+  </p>
+
+  
+
+  <p>
+    <hr>
+  </p>
+
+  <p>
+    <strong>Questão 2:</strong> Seja \(A\) um heap de máximo. A operação <strong>HEAP-DELETE(A, i)</strong> elimina 
+    o item no nó \(i\) do heap \(A\). Dê uma implementação correta de <strong>HEAP-DELETE(A,i)</strong> 
+    que seja executada no tempo \(O(\lg n)\) para um heap de máximo de \(n\) elementos.
+  </p>
+
+  
+  <p>
+    <hr>
+  </p>
+
+  <p>
+    <strong>Questão 3:</strong> Um heap \(d\)-ário é semelhante a um heap binário, 
+    mas (com uma única exceção possível) nós que não são folhas têm \(d\) filhos em vez de dois filhos.
+    <ol type="a">
+      <li>
+        Como você representaria um heap \(d\)-ário de máximo em um vetor? Justifique.
+      </li>
+      <li>
+        Qual é a altura de um heap \(d\)-ário de \(n\) elementos em termos de \(n\) e \(d\)? Justifique.
+      </li>
+      <li>
+        Dê uma implementação eficiente de EXTRACT-MAXIMUM() em um heap de máximo \(d\)-ário. 
+        Analise seu tempo de execução em termos de \(d\) e \(n\).
+      </li>
+    </ol>
+  </p>
+
+  
+</body>
+</html>
