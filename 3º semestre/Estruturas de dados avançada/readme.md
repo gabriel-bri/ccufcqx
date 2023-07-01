@@ -39,3 +39,27 @@
 [Vídeo-aula sobre Templates - Parte 1 (prof. Atilio](https://www.youtube.com/watch?v=jLFN9j4dOD8&embeds_referring_euri=https%3A%2F%2Fmoodle2.quixada.ufc.br%2F&source_ve_path=MTc4NDI0)
 
 [Vídeo-aula sobre Templates - Parte 2 (prof. Atilio)](https://www.youtube.com/watch?v=-m5uLAcpFwI&embeds_referring_euri=https%3A%2F%2Fmoodle2.quixada.ufc.br%2F&source_ve_path=MTc4NDI0)
+
+[Explicação brevíssima do Projeto 01 - EDA 2023](https://www.youtube.com/watch?v=d5R5JUOoqno)
+
+[link 1 unordered_map](https://cplusplus.com/reference/unordered_map/unordered_map/)
+
+[link 2 unordered_map](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)
+
+[link 3 problemas resolvidos de forma eficiente usando hash (coletados pelo prof. Wladimir)](https://colab.research.google.com/drive/1A9Z6w3MxOussgWD1Z-rq1wi9e85SXlvZ?usp=sharing#scrollTo=axLuahJyphzY)
+
+[video unordered_map em C++](https://www.youtube.com/watch?v=EeBivX5uORU)
+
+[heap de máximo online](https://visualgo.net/en/heap?slide=1)
+
+[heap de mínimo online](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+
+[video univesp: grafos - conceitos iniciais](https://www.youtube.com/watch?v=MC0u4f334mI&feature=youtu.be)
+
+[vídeo univesp: grafos - representação](https://www.youtube.com/watch?v=9m8wDGYWlXA)
+
+[playlist obmep: introdução à teoria dos grafos](https://www.youtube.com/playlist?list=PLrVGp617x0hAm90-7zQzbRsSOnN2Vbr-I)
+
+[House of graphs](https://houseofgraphs.org/)
+
+[video animação BFS](https://youtu.be/x-VTfcmrLEQ)
