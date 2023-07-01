@@ -1,0 +1,23 @@
+$add 5 pairs
+$bucket_count 
+number of buckets = 7
+$size 
+number of pairs = 5
+$add 11 pairs
+chamou rehash(), tamanho da nova tabela: 17
+$bucket_count 
+number of buckets = 17
+$size 
+number of pairs = 16
+$add 3 pairs
+chamou rehash(), tamanho da nova tabela: 37
+$bucket_count 
+number of buckets = 37
+$size 
+number of pairs = 19
+$add 5 pairs
+$bucket_count 
+number of buckets = 37
+$size 
+number of pairs = 24
+$exit

@@ -1,0 +1,25 @@
+$change_loadfactor 2
+$add 14 pairs
+$print_statistics
+--------------------------------
+number of buckets: 7
+number of pairs: 14
+load_factor(): 2
+max_load_factor(): 5
+actual max bucket size: 3
+--------------------------------
+$bucket_size 
+size of bucket 0: 2
+$bucket_size 
+size of bucket 1: 2
+$bucket_size 
+size of bucket 2: 2
+$bucket_size 
+size of bucket 3: 2
+$bucket_size 
+size of bucket 4: 3
+$bucket_size 
+size of bucket 5: 2
+$bucket_size 
+size of bucket 6: 1
+$exit

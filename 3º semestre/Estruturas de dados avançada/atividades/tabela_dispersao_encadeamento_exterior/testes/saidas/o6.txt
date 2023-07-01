@@ -1,0 +1,45 @@
+$add 11 pairs
+chamou rehash(), tamanho da nova tabela: 17
+$print_statistics
+--------------------------------
+number of buckets: 17
+number of pairs: 11
+load_factor(): 1
+max_load_factor(): 5
+actual max bucket size: 2
+--------------------------------
+$bucket_size 
+size of bucket 0: 0
+$bucket_size 
+size of bucket 1: 1
+$bucket_size 
+size of bucket 2: 1
+$bucket_size 
+size of bucket 3: 1
+$bucket_size 
+size of bucket 4: 1
+$bucket_size 
+size of bucket 5: 1
+$bucket_size 
+size of bucket 6: 0
+$bucket_size 
+size of bucket 7: 0
+$bucket_size 
+size of bucket 8: 1
+$bucket_size 
+size of bucket 9: 2
+$bucket_size 
+size of bucket 10: 1
+$bucket_size 
+size of bucket 11: 1
+$bucket_size 
+size of bucket 12: 0
+$bucket_size 
+size of bucket 13: 0
+$bucket_size 
+size of bucket 14: 0
+$bucket_size 
+size of bucket 15: 0
+$bucket_size 
+size of bucket 16: 1
+$exit

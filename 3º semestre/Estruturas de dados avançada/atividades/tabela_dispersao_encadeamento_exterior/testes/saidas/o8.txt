@@ -1,0 +1,19 @@
+$add 11 pairs
+chamou rehash(), tamanho da nova tabela: 17
+$bucket 1
+1
+$bucket 2
+2
+$bucket 3
+3
+$bucket 234
+13
+$bucket 45
+11
+$bucket 5678
+0
+$bucket 987
+1
+$bucket 98
+13
+$exit

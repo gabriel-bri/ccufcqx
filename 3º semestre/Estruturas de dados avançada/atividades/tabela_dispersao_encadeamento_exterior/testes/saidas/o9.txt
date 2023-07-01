@@ -1,0 +1,18 @@
+$empty
+hashtable is empty
+$size 
+number of pairs = 0
+$add 5 pairs
+$empty
+hashtable is not empty
+$size 
+number of pairs = 5
+$print_statistics
+--------------------------------
+number of buckets: 7
+number of pairs: 5
+load_factor(): 1
+max_load_factor(): 5
+actual max bucket size: 1
+--------------------------------
+$exit

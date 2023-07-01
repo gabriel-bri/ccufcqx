@@ -1,0 +1,30 @@
+$add 5 pairs
+$print_statistics
+--------------------------------
+number of buckets: 7
+number of pairs: 5
+load_factor(): 1
+max_load_factor(): 5
+actual max bucket size: 1
+--------------------------------
+$reserve 100
+chamou rehash(), tamanho da nova tabela: 101
+$print_statistics
+--------------------------------
+number of buckets: 101
+number of pairs: 5
+load_factor(): 1
+max_load_factor(): 5
+actual max bucket size: 1
+--------------------------------
+$add 100 pairs
+chamou rehash(), tamanho da nova tabela: 211
+$print_statistics
+--------------------------------
+number of buckets: 211
+number of pairs: 105
+load_factor(): 1
+max_load_factor(): 5
+actual max bucket size: 2
+--------------------------------
+$exit

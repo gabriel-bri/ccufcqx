@@ -1,0 +1,27 @@
+$add 11 pairs
+chamou rehash(), tamanho da nova tabela: 17
+$count 4
+1
+$count 77
+1
+$count 543
+0
+$count 9
+1
+$count 666
+0
+$count 11
+1
+$count 15
+0
+$count 16
+0
+$count 66
+0
+$count 1
+1
+$count 2
+1
+$count 3
+1
+$exit

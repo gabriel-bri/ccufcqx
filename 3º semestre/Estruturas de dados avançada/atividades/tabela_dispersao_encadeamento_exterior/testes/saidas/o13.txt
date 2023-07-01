@@ -1,0 +1,15 @@
+$add 300 pairs
+chamou rehash(), tamanho da nova tabela: 17
+chamou rehash(), tamanho da nova tabela: 37
+chamou rehash(), tamanho da nova tabela: 79
+chamou rehash(), tamanho da nova tabela: 163
+chamou rehash(), tamanho da nova tabela: 331
+$print_statistics
+--------------------------------
+number of buckets: 331
+number of pairs: 300
+load_factor(): 1
+max_load_factor(): 5
+actual max bucket size: 3
+--------------------------------
+$exit
