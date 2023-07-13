@@ -87,7 +87,7 @@ Node removed: 34
 
 
 
-## Arquivos requeridos
+## Arquivos requeridos.
 
 #### main.cpp
 <pre>
