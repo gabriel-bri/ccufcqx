@@ -3,7 +3,7 @@
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 
-![35%](https://progress-bar.dev/35?title=Progresso+no+curso:)
+![39%](https://progress-bar.dev/35?title=Progresso+no+curso:)
 
 #
 > ### Algumas observações importantes:
