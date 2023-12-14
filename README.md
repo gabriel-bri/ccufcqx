@@ -43,7 +43,7 @@ Status:| Disciplina: | Professor:
 :heavy_check_mark: | Sistemas Operacionais | CRISTIANO BACELAR DE OLIVEIRA 
 :heavy_check_mark: | Estrutura de Dados| <a href="https://github.com/senapk" target="_blank">DAVID SENA OLIVEIRA</a>, <a href="https://github.com/Atilio-Luiz" target="_blank">ATILIO GOMES LUIZ</a>
 :x: | Cálculo Diferencial e Integral I |
-:x: | Matemática Discreta |
+:heavy_check_mark: | Matemática Discreta | LUCAS ISMAILY BEZERRA FREITAS
 
 </div>
 
@@ -110,8 +110,9 @@ Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Projeto de Pesquisa Científica e Tecnológica | 
 :x: | Trabalho de Conclusão de Curso I |
-:x: | Estágio Supervisionado I |
-:x: | Empreendedorismo 
+:heavy_check_mark: | Estágio Supervisionado I | REGIS PIRES MARAGALHÃES
+:heavy_check_mark: | Empreendedorismo | MARCELO MARTINS DA SILVA
+
 
 </div>
 
