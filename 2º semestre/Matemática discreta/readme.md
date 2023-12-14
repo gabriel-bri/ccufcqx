@@ -26,3 +26,5 @@ Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWy
 [Sum/Product - Rationals or Irrationals](https://mathbitsnotebook.com/Algebra1/RatIrratNumbers/RNRationalSumProduct.html)
 
 [Section 1.6, selected answers Math 114 Discrete Mathematics D Joyce, Spring 2018](http://math.clarku.edu/~djoyce/ma114/Sec16.pdf)
+
+[Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc - Dr. Trefor Bazett)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
