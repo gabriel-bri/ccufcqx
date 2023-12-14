@@ -18,3 +18,11 @@ Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWy
 [Department of Computer Science - State University of New York at Stony Brook](https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/discrete-mathematics/ProofTechniques.pdf)
 
 [Discrete Mathematics - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
+
+[MC348 - Fundamentos Matemáticos para Computação - Universidade Estadual de Campinas](https://www.ic.unicamp.br/~rezende/lista-provas.pdf)
+
+[Matemática Discreta I DECOM - Prof. Lucília Figueiredo ICEB - UFOP](http://www.decom.ufop.br/lucilia/md1/md1-ex09-sol.pdf)
+
+[Sum/Product - Rationals or Irrationals](https://mathbitsnotebook.com/Algebra1/RatIrratNumbers/RNRationalSumProduct.html)
+
+[Section 1.6, selected answers Math 114 Discrete Mathematics D Joyce, Spring 2018](http://math.clarku.edu/~djoyce/ma114/Sec16.pdf)
