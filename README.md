@@ -132,4 +132,6 @@ Status:| Disciplina: | Professor:
 :---:|:---|:---
 :heavy_check_mark: | Segurança | MARCOS DANTAS ORTIZ
 :heavy_check_mark: | História do Design | ROCHELLE SILVEIRA LIMA
+:heavy_check_mark: | Auditoria e Segurança | ROBERTO CABRAL RABÊLO FILHO
+
 </div>
