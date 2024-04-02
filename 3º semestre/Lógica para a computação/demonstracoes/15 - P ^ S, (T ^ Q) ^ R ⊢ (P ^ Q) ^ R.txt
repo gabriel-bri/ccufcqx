@@ -1,0 +1,10 @@
+# P ^ S, (T ^ Q) ^ R ⊢ (P ^ Q) ^ R
+
+1. P&S		pre
+2. (T&Q)&R	pre
+3. P		&e1
+4. T&Q		&e2
+5. R		&e2
+6. Q		&e4
+7. P&Q		&i3,6
+8. (P&Q)&R	&i7,5

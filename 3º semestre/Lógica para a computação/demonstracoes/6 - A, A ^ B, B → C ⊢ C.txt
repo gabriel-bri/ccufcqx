@@ -1,0 +1,7 @@
+# A, A ^ B, B -> C ⊢ C
+
+1. A	pre
+2. A&B	pre
+3. B->C	pre
+4. B	&e2
+5. C	->e3,4
