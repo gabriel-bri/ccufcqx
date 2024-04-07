@@ -1,4 +1,4 @@
-﻿# P -> Q, Q -> R ⊢ P -> R →
+﻿# P -> Q, Q -> R ⊢ P -> R
 
 1. P->Q		pre
 2. Q->R		pre
