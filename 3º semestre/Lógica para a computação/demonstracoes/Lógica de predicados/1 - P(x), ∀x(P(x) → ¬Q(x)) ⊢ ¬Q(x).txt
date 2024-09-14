@@ -1,0 +1,6 @@
+# P(x), ∀x(P(x) → ¬Q(x)) ⊢ ¬Q(x)
+
+1. P(t)			pre
+2. Ax(P(x) -> ~Q(x))	pre
+3. P(t)	-> ~Q(t)	Ae2
+4. ~Q(t)		->e3,1
