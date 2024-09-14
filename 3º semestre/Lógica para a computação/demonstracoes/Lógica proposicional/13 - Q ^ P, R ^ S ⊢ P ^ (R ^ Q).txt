@@ -1,0 +1,9 @@
+﻿# Q ^ P, R ^ S ⊢ P ^ (R ^ Q)
+
+1. Q&P	  	pre
+2. R&S		pre
+3. R		&e2
+4. Q		&e1
+5. P		&e1
+6. R&Q		&i3,4
+7. P&(R&Q) 	&i6,5

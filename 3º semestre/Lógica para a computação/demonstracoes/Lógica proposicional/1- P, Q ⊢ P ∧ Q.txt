@@ -1,0 +1,5 @@
+# P, Q ⊢ P ∧ Q
+
+1. P	pre
+2. Q	pre
+3. P&Q  &i1,2
