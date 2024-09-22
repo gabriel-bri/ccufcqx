@@ -1,0 +1,8 @@
+# ∃x(P(x) ^ Q(x)) ⊢ ∃xQ(x)
+
+1. Ex(P(x) & Q(x))		pre
+2. {x0 P(x0) & Q(x0)		hip
+3.  Q(x0)			      &e2
+4.  ExQ(x)			      Ei3
+   }
+5. ExQ(x)			      Ee1, 2-4

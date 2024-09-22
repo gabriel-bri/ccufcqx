@@ -1,0 +1,13 @@
+# ∀x(Q(x) → R(x)), ∃x(P(x) ^ Q(x)) ⊢ ∃x(P(x) ^ R(x))
+
+1. Ax(Q(x) -> R(x))	pre
+2. Ex(P(x) & Q(x))	pre
+3. {x0 P(x0) & Q(x0)	hip
+4.  Q(x0) -> R(x0)	Ae1
+5.  P(x0)		&e3
+6.  Q(x0)		&e3
+7.  R(x0)		->e6,4
+8.  P(x0) & R(x0)	&i5,7
+9.  Ex(P(x)&R(x))	Ei8
+   }
+10. Ex(P(x) & R(x))	Ee2, 3-9

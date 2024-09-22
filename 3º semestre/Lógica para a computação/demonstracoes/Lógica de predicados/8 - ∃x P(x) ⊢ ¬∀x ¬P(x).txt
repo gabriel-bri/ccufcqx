@@ -1,0 +1,12 @@
+# ∃x P(x) ⊢ ¬∀x ¬P(x)
+
+1. ExP(x)	     pre
+2. {Ax~P(x)	     hip
+3.  {x0 P(x0)	  hip
+4.    ~P(x0)	  Ae2
+5.   @		     ~e4,3
+    }
+6.    @		     Ee1, 3-5
+   }
+
+7. ~Ax~P(x)	     ~i2-6

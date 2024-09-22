@@ -1,0 +1,14 @@
+# ∀x (P(x) ∧ Q(x)) ⊢ ∀x P(x) ∧ ∀x Q(x)
+
+1. Ax (P(x) & Q(x))	    pre
+2. {x0
+3.    P(x0) & Q(x0)	    Ae1
+4.    P(x0)		          &e3
+   }
+5. AxP(x)		          Ai2-4
+6. {x0
+7.  P(x0) & Q(x0)	       Ae1
+8.  Q(x0)		          &e7
+   }
+9. AxQ(x)		          Ai6-8
+10. Ax P(x) & Ax Q(x)	 &i5,9

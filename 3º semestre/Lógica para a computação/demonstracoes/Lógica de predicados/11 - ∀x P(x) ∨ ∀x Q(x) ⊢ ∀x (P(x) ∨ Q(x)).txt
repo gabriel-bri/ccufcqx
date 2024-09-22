@@ -1,0 +1,15 @@
+# ∀x P(x) ∨ ∀x Q(x) ⊢ ∀x (P(x) ∨ Q(x))
+
+1. Ax P(x) | Ax Q(x)	pre
+2. {x0
+3.    {AxP(x)			hip
+4.    	P(x0)			Ae3
+5.      P(x0)|Q(x0)     |i4
+      }
+6.    {AxQ(x)			hip
+7.   	Q(x0)			Ae6
+8.   	P(x0)|Q(x0) 	|i7
+      }
+9.  P(x0) | Q(x0) 		|e1, 3-5, 6-8 
+   }
+10. Ax (P(x) | Q(x)) 	Ai2-9

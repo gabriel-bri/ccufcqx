@@ -1,0 +1,5 @@
+# ∀xP(x) ⊢ ∃xP(x)
+
+1. AxP(x)	pre
+2. P(x)		Ae1
+3. ExP(x)	Ei2
