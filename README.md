@@ -56,8 +56,8 @@ Status:| Disciplina: | Professor:
 :x: | Programação Funcional |
 :x: | Estrutura de Dados Avançada |
 :x: | Linguagens Formais e Autômatos |
-:x: | Lógica para Computação|
-:x: | Probabilidade e Estatística|
+:heavy_check_mark: | Lógica para Computação | MARIA VIVIANE DE MENEZES
+:heavy_check_mark: | Probabilidade e Estatística | ANTÔNIO JOEL RAMIRO DE CASTRO
 
 </div>
 
@@ -122,7 +122,7 @@ Status:| Disciplina: | Professor:
 Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Trabalho de Conclusão de Curso II | 
-:x: | Estágio Supervisionado II |
+:heavy_check_mark: | Estágio Supervisionado II | REGIS PIRES MARAGALHÃES
 </div>
 
 <h1  align="center">Optativas</h1>
