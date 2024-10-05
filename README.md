@@ -3,7 +3,12 @@
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 
-![39%](https://progress-bar.dev/39?title=Progresso+no+curso:)
+<div style="width: 100%; background-color: #e0e0df; border-radius: 25px; box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.3); height: 35px; position: relative;">
+  <div style="width: 57%; height: 100%; background: linear-gradient(to right, #4caf50, #81c784); border-radius: 25px; transition: width 0.4s ease;"></div>
+  <div style="position: absolute; width: 100%; top: 0; left: 0; text-align: center; line-height: 35px; font-size: 18px; font-weight: bold; color: #fff; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);">
+    Status do curso: 57%
+  </div>
+</div>
 
 #
 > ### Algumas observações importantes:
