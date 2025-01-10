@@ -1,0 +1,399 @@
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 17.2
+-- Dumped by pg_dump version 17.2
+
+-- Started on 2024-12-20 00:15:59
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET transaction_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+SET default_tablespace = '';
+
+SET default_table_access_method = heap;
+
+--
+-- TOC entry 218 (class 1259 OID 16705)
+-- Name: aluno; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.aluno (
+    id integer NOT NULL,
+    nome character varying(50) NOT NULL,
+    email character varying(50) NOT NULL,
+    matricula character varying(6) NOT NULL
+);
+
+
+ALTER TABLE public.aluno OWNER TO postgres;
+
+--
+-- TOC entry 217 (class 1259 OID 16704)
+-- Name: aluno_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.aluno_id_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER SEQUENCE public.aluno_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 4935 (class 0 OID 0)
+-- Dependencies: 217
+-- Name: aluno_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.aluno_id_seq OWNED BY public.aluno.id;
+
+
+--
+-- TOC entry 220 (class 1259 OID 16716)
+-- Name: estoque; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.estoque (
+    id integer NOT NULL,
+    nome character varying(100) NOT NULL,
+    quantidade integer NOT NULL,
+    tipo integer NOT NULL
+);
+
+
+ALTER TABLE public.estoque OWNER TO postgres;
+
+--
+-- TOC entry 219 (class 1259 OID 16715)
+-- Name: estoque_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.estoque_id_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER SEQUENCE public.estoque_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 4936 (class 0 OID 0)
+-- Dependencies: 219
+-- Name: estoque_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.estoque_id_seq OWNED BY public.estoque.id;
+
+
+--
+-- TOC entry 222 (class 1259 OID 16723)
+-- Name: pedido; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.pedido (
+    id integer NOT NULL,
+    id_aluno integer,
+    data_pedido date DEFAULT CURRENT_DATE NOT NULL,
+    aprovado boolean,
+    codigo character varying(20) NOT NULL
+);
+
+
+ALTER TABLE public.pedido OWNER TO postgres;
+
+--
+-- TOC entry 224 (class 1259 OID 16736)
+-- Name: pedido_detalhes; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.pedido_detalhes (
+    id integer NOT NULL,
+    pedido_id integer NOT NULL,
+    produto_id integer NOT NULL,
+    quantidade_item integer NOT NULL
+);
+
+
+ALTER TABLE public.pedido_detalhes OWNER TO postgres;
+
+--
+-- TOC entry 223 (class 1259 OID 16735)
+-- Name: pedido_detalhes_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.pedido_detalhes_id_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER SEQUENCE public.pedido_detalhes_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 4937 (class 0 OID 0)
+-- Dependencies: 223
+-- Name: pedido_detalhes_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.pedido_detalhes_id_seq OWNED BY public.pedido_detalhes.id;
+
+
+--
+-- TOC entry 221 (class 1259 OID 16722)
+-- Name: pedido_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.pedido_id_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER SEQUENCE public.pedido_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 4938 (class 0 OID 0)
+-- Dependencies: 221
+-- Name: pedido_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.pedido_id_seq OWNED BY public.pedido.id;
+
+
+--
+-- TOC entry 4757 (class 2604 OID 16708)
+-- Name: aluno id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.aluno ALTER COLUMN id SET DEFAULT nextval('public.aluno_id_seq'::regclass);
+
+
+--
+-- TOC entry 4758 (class 2604 OID 16719)
+-- Name: estoque id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.estoque ALTER COLUMN id SET DEFAULT nextval('public.estoque_id_seq'::regclass);
+
+
+--
+-- TOC entry 4759 (class 2604 OID 16726)
+-- Name: pedido id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.pedido ALTER COLUMN id SET DEFAULT nextval('public.pedido_id_seq'::regclass);
+
+
+--
+-- TOC entry 4761 (class 2604 OID 16739)
+-- Name: pedido_detalhes id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.pedido_detalhes ALTER COLUMN id SET DEFAULT nextval('public.pedido_detalhes_id_seq'::regclass);
+
+
+--
+-- TOC entry 4923 (class 0 OID 16705)
+-- Dependencies: 218
+-- Data for Name: aluno; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.aluno (id, nome, email, matricula) FROM stdin;
+1	João Silva	joao.silva@alu.ufc.br	123456
+2	Maria Oliveira	maria.oliveira@alu.ufc.br	234567
+3	Pedro Santos	pedro.santos@alu.ufc.br	345678
+4	Ana Souza	ana.souza@alu.ufc.br	456789
+5	Carlos Pereira	carlos.pereira@alu.ufc.br	567890
+\.
+
+
+--
+-- TOC entry 4925 (class 0 OID 16716)
+-- Dependencies: 220
+-- Data for Name: estoque; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.estoque (id, nome, quantidade, tipo) FROM stdin;
+1	Produto A	100	1
+2	Produto B	50	2
+3	Produto C	200	1
+4	Produto D	75	3
+5	Produto E	300	2
+\.
+
+
+--
+-- TOC entry 4927 (class 0 OID 16723)
+-- Dependencies: 222
+-- Data for Name: pedido; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.pedido (id, id_aluno, data_pedido, aprovado, codigo) FROM stdin;
+1	1	2024-12-20	t	c409256a672033bf52f9
+2	2	2024-12-20	f	f39481d3555cffe27419
+3	5	2024-12-20	\N	58aace95be570d128a36
+4	3	2024-12-20	\N	503066a8dae6cd31924c
+\.
+
+
+--
+-- TOC entry 4929 (class 0 OID 16736)
+-- Dependencies: 224
+-- Data for Name: pedido_detalhes; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.pedido_detalhes (id, pedido_id, produto_id, quantidade_item) FROM stdin;
+1	1	1	10
+2	2	2	4
+3	3	3	1
+4	4	4	4
+\.
+
+
+--
+-- TOC entry 4939 (class 0 OID 0)
+-- Dependencies: 217
+-- Name: aluno_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.aluno_id_seq', 5, true);
+
+
+--
+-- TOC entry 4940 (class 0 OID 0)
+-- Dependencies: 219
+-- Name: estoque_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.estoque_id_seq', 5, true);
+
+
+--
+-- TOC entry 4941 (class 0 OID 0)
+-- Dependencies: 223
+-- Name: pedido_detalhes_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.pedido_detalhes_id_seq', 4, true);
+
+
+--
+-- TOC entry 4942 (class 0 OID 0)
+-- Dependencies: 221
+-- Name: pedido_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.pedido_id_seq', 4, true);
+
+
+--
+-- TOC entry 4763 (class 2606 OID 16712)
+-- Name: aluno aluno_email_key; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.aluno
+    ADD CONSTRAINT aluno_email_key UNIQUE (email);
+
+
+--
+-- TOC entry 4765 (class 2606 OID 16714)
+-- Name: aluno aluno_matricula_key; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.aluno
+    ADD CONSTRAINT aluno_matricula_key UNIQUE (matricula);
+
+
+--
+-- TOC entry 4767 (class 2606 OID 16710)
+-- Name: aluno aluno_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.aluno
+    ADD CONSTRAINT aluno_pkey PRIMARY KEY (id);
+
+
+--
+-- TOC entry 4769 (class 2606 OID 16721)
+-- Name: estoque estoque_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.estoque
+    ADD CONSTRAINT estoque_pkey PRIMARY KEY (id);
+
+
+--
+-- TOC entry 4773 (class 2606 OID 16741)
+-- Name: pedido_detalhes pedido_detalhes_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.pedido_detalhes
+    ADD CONSTRAINT pedido_detalhes_pkey PRIMARY KEY (id);
+
+
+--
+-- TOC entry 4771 (class 2606 OID 16729)
+-- Name: pedido pedido_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.pedido
+    ADD CONSTRAINT pedido_pkey PRIMARY KEY (id);
+
+
+--
+-- TOC entry 4775 (class 2606 OID 16742)
+-- Name: pedido_detalhes pedido_detalhes_pedido_id_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.pedido_detalhes
+    ADD CONSTRAINT pedido_detalhes_pedido_id_fkey FOREIGN KEY (pedido_id) REFERENCES public.pedido(id);
+
+
+--
+-- TOC entry 4776 (class 2606 OID 16747)
+-- Name: pedido_detalhes pedido_detalhes_produto_id_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.pedido_detalhes
+    ADD CONSTRAINT pedido_detalhes_produto_id_fkey FOREIGN KEY (produto_id) REFERENCES public.estoque(id);
+
+
+--
+-- TOC entry 4774 (class 2606 OID 16730)
+-- Name: pedido pedido_id_aluno_fkey; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.pedido
+    ADD CONSTRAINT pedido_id_aluno_fkey FOREIGN KEY (id_aluno) REFERENCES public.aluno(id);
+
+
+-- Completed on 2024-12-20 00:16:00
+
+--
+-- PostgreSQL database dump complete
+--
+
