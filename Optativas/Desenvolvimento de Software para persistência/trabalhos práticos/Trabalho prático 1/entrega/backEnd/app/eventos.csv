@@ -1,0 +1,16 @@
+id,titulo,descricao,data,local,publicoEsperado
+1,Calcinha Preta,Show de Forró,2024-10-10 13:10:00+00:00,Quixadá,30000
+2,H2HC,Hackers to Hackers Conference,2024-10-10 13:10:00+00:00,São Paulo,5000
+3,Workshop de Tecnologia,Introdução ao desenvolvimento de software,2024-11-05 09:00:00+00:00,Fortaleza,25
+4,Palestra sobre IA,Futuro da inteligência artificial,2024-11-12 14:30:00+00:00,Fortaleza,50
+5,Evento de Networking,Conexões para o futuro,2024-11-20 18:00:00+00:00,Fortaleza,100
+6,Curso de Fotografia,Aprendizado de técnicas fotográficas,2024-11-15 09:00:00+00:00,Ceará,20
+7,Seminário sobre Saúde Mental,Importância do autocuidado,2024-12-01 13:30:00+00:00,Quixadá,15
+8,Fórum de Empreendedorismo,Como iniciar seu próprio negócio,2024-12-05 10:00:00+00:00,Fortaleza,30
+9,Show de Talentos,Exibição de talentos locais,2024-12-07 19:00:00+00:00,Quixadá,200
+10,Encontro de Inovação,Novas tendências para startups,2024-12-10 08:30:00+00:00,Fortaleza,40
+11,Curso de Marketing Digital,Marketing nas redes sociais,2024-12-11 10:00:00+00:00,Ceará,35
+12,Exposição de Arte,Artistas locais em destaque,2024-12-12 16:00:00+00:00,Fortaleza,100
+13,Palestra sobre Sustentabilidade,Desafios e soluções ambientais,2024-12-13 14:00:00+00:00,Quixadá,60
+14,Workshop de Programação,Desenvolvimento web com React,2024-12-14 09:00:00+00:00,Fortaleza,20
+15,Encontro de Líderes,Transformação no ambiente corporativo,2024-12-15 11:00:00+00:00,Quixadá,50
