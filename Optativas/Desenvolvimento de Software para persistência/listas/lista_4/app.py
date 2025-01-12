@@ -128,7 +128,7 @@ def atualizar_livro(id: int, livro_atualizado: Livro):
             if livro_atualizado.ano == 0:
                 raise HTTPException(status_code=400, detail="Ano não pode ser zero.")
             
-            if len(str(livro.ano)) > 4 or len(str(livro.ano)) < 4:
+            if len(str(livro_atualizado.ano)) > 4 or len(str(livro_atualizado.ano)) < 4:
                 raise HTTPException(status_code=400, detail="Ano deve conter 4 caracteres.")            
             
             livro.update(livro_atualizado.dict())
