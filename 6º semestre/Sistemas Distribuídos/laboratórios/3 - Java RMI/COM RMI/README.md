@@ -1,0 +1,7 @@
+O núcleo do sistema começa com a criação da interface remota Hello, que define o método sayHello(String name). Essa interface estende Remote e utiliza a exceção RemoteException para lidar com possíveis falhas em chamadas remotas. A implementação do serviço remoto é feita na classe HelloImpl, que estende UnicastRemoteObject para permitir a exportação do objeto e implementar o método sayHello, retornando uma saudação personalizada.
+
+O servidor é implementado na classe Server, que inicializa o registro RMI na porta padrão 1099 e registra o serviço remoto sob o nome "HelloService". Ele instância a implementação do serviço (HelloImpl) e a expõe usando o método Naming.rebind, tornando-o acessível para chamadas remotas. O servidor imprime uma mensagem indicando que está pronto para aceitar conexões.
+
+O cliente, por sua vez, é implementado na classe Client. Ele utiliza o método Naming.lookup para localizar o serviço remoto registrado no endereço rmi://localhost:1099/HelloService. Após localizar o serviço, o cliente invoca o método remoto sayHello, passando um nome como parâmetro, e exibe a resposta recebida do servidor no console.
+
+Este sistema demonstra uma aplicação funcional de RMI, com comunicação transparente entre cliente e servidor. Ele abstrai os detalhes da rede, permitindo que métodos sejam chamados remotamente como se fossem locais. A implementação modular, com separação clara entre interface, servidor e cliente, facilita a manutenção e a escalabilidade da aplicação.
