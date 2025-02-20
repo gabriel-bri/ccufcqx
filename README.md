@@ -69,7 +69,7 @@ Status:| Disciplina: | Professor:
 :---:|:---|:---
 :heavy_check_mark: | Fundamentos de Banco de Dados | <a href="https://github.com/liviaalmada" target="_blank">LIVIA ALMADA CRUZ</a>
 :x: | Linguagens de Programação |
-:heavy_check_mark: | Projeto e Análise de Algoritmos | <a href="https://github.com/fabiocsd" target="_blank">Fábio Carlos Sousa Dias</a>
+:heavy_check_mark: | Projeto e Análise de Algoritmos | <a href="https://github.com/fabiocsd" target="_blank">FÁBIO CARLOS SOUSA DIAS</a>
 :x: | Álgebra Linear|
 :heavy_check_mark: | Análise e Projeto de Sistemas|ENYO JOSE TAVARES GONCALVES
 
