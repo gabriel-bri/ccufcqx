@@ -3,7 +3,7 @@
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 
-![57%](https://progress-bar.xyz/57/?title=Progresso+no+curso:)
+![59%](https://progress-bar.xyz/59/?title=Progresso+no+curso:)
 
 #
 > ### Algumas observações importantes:
@@ -69,7 +69,7 @@ Status:| Disciplina: | Professor:
 :---:|:---|:---
 :heavy_check_mark: | Fundamentos de Banco de Dados | <a href="https://github.com/liviaalmada" target="_blank">LIVIA ALMADA CRUZ</a>
 :x: | Linguagens de Programação |
-:x: | Projeto e Análise de Algoritmos |
+:heavy_check_mark: | Projeto e Análise de Algoritmos | <a href="https://github.com/fabiocsd" target="_blank">Fábio Carlos Sousa Dias</a>
 :x: | Álgebra Linear|
 :heavy_check_mark: | Análise e Projeto de Sistemas|ENYO JOSE TAVARES GONCALVES
 
