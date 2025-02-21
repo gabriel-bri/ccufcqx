@@ -15,22 +15,5 @@ membro(X, [X | _]).
 membro(X, [_ | Resto]) :- membro(X, Resto).
 
 % Predicado para calcular o comprimento de uma lista
-comprimento([], 0).
-comprimento([_ | Resto], N) :- comprimento(Resto, N1), N is N1 + 1.
-
-% Consultas
-
-?- adiciona(3, [1, 2], L).  % Adiciona 3 à lista [1, 2]
-L = [3, 1, 2].
-
-?- apaga(2, [1, 2, 3, 2], L).  % Remove todas as ocorrências de 2 da lista [1, 2, 3, 2]
-L = [1, 3].
-
-?- concatena([1, 2], [3, 4], L).  % Concatena as listas [1, 2] e [3, 4]
-L = [1, 2, 3, 4].
-
-?- membro(2, [1, 2, 3]).  % Verifica se 2 é membro da lista [1, 2, 3]
-true.
-
-?- comprimento([1, 2, 3], N).  % Calcula o comprimento da lista [1, 2, 3]
-N = 3.
+comprimento(X, []) :- X is 0.
+comprimento(X, [_ | Resto]) :- comprimento(N1, Resto),X is N1 + 1.

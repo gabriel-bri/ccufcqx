@@ -1,4 +1,4 @@
-% Definição das arestas do grafo
+﻿% Definição das arestas do grafo
 aresta(0, 1).
 aresta(1, 2).
 aresta(2, 3).
@@ -14,14 +14,3 @@ caminho([X, Y | Resto]) :- adjacente(X, Y), caminho([Y | Resto]).
 
 % Predicado para calcular o grau de um vértice
 grau(V, G) :- findall(_, adjacente(V, _), Adjacentes), length(Adjacentes, G).
-
-% Consultas
-
-?- adjacente(0, 1).  % Verifica se 0 é adjacente a 1
-true.
-
-?- caminho([0, 1, 2]).  % Verifica se [0, 1, 2] forma um caminho
-true.
-
-?- grau(1, G).  % Calcula o grau do vértice 1
-G = 2.
