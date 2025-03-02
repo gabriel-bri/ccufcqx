@@ -56,28 +56,3 @@ cd BackEnd/app
 ```
 uvicorn main:app --reload
 ```
-
-<h2 id="colab">Colaboradores</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gabriel-bri">
-        <img src="https://avatars.githubusercontent.com/u/34654875?v=4" width="100px" alt="Foto de perfil de Natan"/>
-        <br>
-        <sub>
-          <b>gabriel-bri</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/josiasdev">
-        <img src="https://avatars.githubusercontent.com/u/71450649?v=4" width="100px" alt="Foto de perfil de Josias"/>
-        <br>
-        <sub>
-          <b>josiasdev</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
