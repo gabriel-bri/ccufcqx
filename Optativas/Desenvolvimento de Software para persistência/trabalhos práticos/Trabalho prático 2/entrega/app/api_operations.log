@@ -1,0 +1,18 @@
+2025-01-22 22:00:03,345 - INFO - Listagem de alunos realizada com sucesso
+2025-01-22 22:03:15,262 - INFO - Nenhuma aula encontrada
+2025-01-22 22:03:15,265 - ERROR - Erro ao listar aulas: 404: Nenhuma aula cadastrada
+2025-01-22 22:08:48,754 - WARNING - Nenhuma aula encontrada.
+2025-01-22 22:08:48,754 - ERROR - Erro: Nenhuma aula cadastrada.
+2025-01-22 22:09:48,200 - WARNING - Nenhuma aula encontrada.
+2025-01-22 22:09:48,200 - ERROR - Erro: Nenhuma aula cadastrada.
+2025-01-22 22:12:20,234 - INFO - Listagem de alunos realizada com sucesso. Total de alunos: 1
+2025-01-22 22:13:24,054 - ERROR - Erro: Nenhum aluno cadastrado
+2025-01-22 22:17:17,236 - WARNING - Nenhuma avaliaÁ„o encontrada.
+2025-01-22 22:17:17,237 - ERROR - Erro: Nenhuma avaliaÁ„o cadastrada.
+2025-01-22 22:26:04,801 - INFO - Aluno inserido com sucesso: 1
+2025-01-22 22:26:21,401 - INFO - Aluno atualizado com sucesso: 1
+2025-01-22 22:54:59,218 - INFO - Listagem de alunos realizada com sucesso. Total de alunos: 1
+2025-01-22 22:55:14,506 - WARNING - Tentativa de inser√ß√£o com ID duplicado: 0
+2025-01-22 22:55:14,506 - ERROR - Erro: ID j√° existe no banco de dados
+2025-01-22 22:56:14,240 - WARNING - Tentativa de inser√ß√£o com ID duplicado: 0
+2025-01-22 22:56:14,240 - ERROR - Erro: ID j√° existe no banco de dados
