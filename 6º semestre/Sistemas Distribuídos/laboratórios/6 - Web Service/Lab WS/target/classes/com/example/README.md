@@ -1,0 +1,11 @@
+Na etapa de implementação, a interface HelloService, localizada em src/main/java/com/exemplo, define o contrato do serviço web utilizando as anotações @WebService e @WebMethod. Essa interface declara o método sayHello, que recebe uma String e retorna outra, estabelecendo a operação que o serviço disponibiliza.
+
+A implementação desse contrato é realizada pela classe HelloServiceImpl, que implementa o método sayHello para retornar uma mensagem de saudação personalizada. A anotação @WebService, aplicada com o atributo endpointInterface, vincula essa classe ao contrato definido anteriormente, garantindo que o método exposto mantenha a assinatura e o comportamento esperado pelo cliente.
+
+Em seguida, a publicação do serviço é feita na classe Server. Nele, o método main utiliza o método Endpoint.publish para disponibilizar o Web Service na URL http://localhost:8080/hello. Essa publicação torna o WSDL (Web Services Description Language) acessível em http://localhost:8080/hello?wsdl, permitindo que clientes obtenham as definições do serviço e negociem a comunicação de forma padronizada.
+
+A classe Client demonstra o consumo do serviço. Ela cria um objeto URL apontando para o WSDL do serviço, define um QName com o namespace e o nome do serviço, e, em seguida, utiliza a classe Service para criar uma instância do serviço. A partir dessa instância, o método sayHello é invocado com o parâmetro "Usuário", e a resposta retornada é exibida no console, comprovando a comunicação remota entre cliente e servidor.
+
+Para compilar e executar o projeto, utiliza-se o Maven: o comando "mvn clean package" gera um JAR com as dependências necessárias. Em seguida, o servidor é iniciado executando a classe Server e, em outro terminal, o cliente é executado pela classe Client. Dessa forma, o cliente consome o serviço publicado, e a interação é observada por meio das mensagens exibidas no console.
+
+Essa abordagem evidencia a arquitetura distribuída de um Web Service SOAP utilizando JAX-WS, onde a interface define o contrato, a implementação processa a lógica do serviço, o servidor publica o serviço e o cliente o consome de forma remota. O uso do Maven agiliza o gerenciamento de dependências e o empacotamento das aplicações, garantindo um ambiente consistente para a execução do serviço.
