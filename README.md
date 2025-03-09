@@ -3,7 +3,7 @@
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 
-![61%](https://progress-bar.xyz/61/?title=Progresso+no+curso:)
+![69%](https://progress-bar.xyz/69/?title=Progresso+no+curso:)
 
 #
 > ### Algumas observações importantes:
@@ -96,8 +96,8 @@ Status:| Disciplina: | Professor:
 Status:| Disciplina: | Professor:
 :---:|:---|:---
 :heavy_check_mark: | Engenharia de Software | ANTONIA DIANA BRAGA NOGUEIRA
-:x: | Interface Humano-Computador |
-:x: | Sistemas Distribuídos |
+:heavy_check_mark: | Interface Humano-Computador | MARCELO MARTINS DA SILVA
+:heavy_check_mark: | Sistemas Distribuídos | <a href="https://github.com/antoniorafaelbraga" targe="_blank">ANTONIO RAFAEL BRAGA</a>
 :x: | Inteligência Artificial 
 :x: | Teoria da Computação |
 
@@ -133,5 +133,6 @@ Status:| Disciplina: | Professor:
 :heavy_check_mark: | Segurança | MARCOS DANTAS ORTIZ
 :heavy_check_mark: | História do Design | ROCHELLE SILVEIRA LIMA
 :heavy_check_mark: | Auditoria e Segurança | ROBERTO CABRAL RABÊLO FILHO
-
+:heavy_check_mark: | Gerência de Projetos | ANTONIA DIANA BRAGA NOGUEIRA
+:heavy_check_mark: | Desenvolvimento de Software para Persistência | <a href="https://github.com/pinheirovictor" targe="_blank">FRANCISCO VICTOR DA SILVA PINHEIRO</a>
 </div>
