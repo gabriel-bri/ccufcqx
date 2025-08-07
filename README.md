@@ -3,7 +3,7 @@
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 
-![69%](https://progress-bar.xyz/69/?title=Progresso+no+curso:)
+![79%](https://progress-bar.xyz/79/?title=Progresso+no+curso:)
 
 #
 > ### Algumas observações importantes:
@@ -54,7 +54,7 @@ Status:| Disciplina: | Professor:
 Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Programação Funcional |
-:x: | Estrutura de Dados Avançada |
+:x: | Estrutura de Dados Avançada | <a href="https://github.com/araruna" target="_blank">ARTHUR RODRIGUES ARARUNA</a>
 :x: | Linguagens Formais e Autômatos |
 :heavy_check_mark: | Lógica para Computação | MARIA VIVIANE DE MENEZES
 :heavy_check_mark: | Probabilidade e Estatística | ANTÔNIO JOEL RAMIRO DE CASTRO
@@ -70,7 +70,7 @@ Status:| Disciplina: | Professor:
 :heavy_check_mark: | Fundamentos de Banco de Dados | <a href="https://github.com/liviaalmada" target="_blank">LIVIA ALMADA CRUZ</a>
 :heavy_check_mark: | Linguagens de Programação | LUCAS ISMAILY BEZERRA FREITAS
 :heavy_check_mark: | Projeto e Análise de Algoritmos | <a href="https://github.com/fabiocsd" target="_blank">FÁBIO CARLOS SOUSA DIAS</a>
-:x: | Álgebra Linear|
+:heavy_check_mark: | Álgebra Linear | ANDRÉ RIBEIRO BRAGA
 :heavy_check_mark: | Análise e Projeto de Sistemas|ENYO JOSE TAVARES GONCALVES
 
 </div>
@@ -110,7 +110,7 @@ Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Projeto de Pesquisa Científica e Tecnológica | 
 :x: | Trabalho de Conclusão de Curso I |
-:heavy_check_mark: | Estágio Supervisionado I | REGIS PIRES MARAGALHÃES
+:heavy_check_mark: | Estágio Supervisionado I | <a href="https://github.com/regispires" targe="_blank">REGIS PIRES MARAGALHÃES</a>
 :heavy_check_mark: | Empreendedorismo | MARCELO MARTINS DA SILVA
 
 
@@ -122,7 +122,7 @@ Status:| Disciplina: | Professor:
 Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Trabalho de Conclusão de Curso II | 
-:heavy_check_mark: | Estágio Supervisionado II | REGIS PIRES MARAGALHÃES
+:heavy_check_mark: | Estágio Supervisionado II | <a href="https://github.com/regispires" targe="_blank">REGIS PIRES MARAGALHÃES</a>
 </div>
 
 <h1  align="center">Optativas</h1>
@@ -135,4 +135,7 @@ Status:| Disciplina: | Professor:
 :heavy_check_mark: | Auditoria e Segurança | ROBERTO CABRAL RABÊLO FILHO
 :heavy_check_mark: | Gerência de Projetos | ANTONIA DIANA BRAGA NOGUEIRA
 :heavy_check_mark: | Desenvolvimento de Software para Persistência | <a href="https://github.com/pinheirovictor" targe="_blank">FRANCISCO VICTOR DA SILVA PINHEIRO</a>
+:heavy_check_mark: | Tópicos Avançados em Redes de Computadores | ALISSON BARBOSA DE SOUZA
+:heavy_check_mark: | Computação em Nuvem | <a href="https://github.com/joaomarceloalencar" targe="_blank">JOÃO MARCELO UCHÔA DE ALENCAR</a>
+:heavy_check_mark: | Administração de Sistemas Operacionais | <a href="https://github.com/antoniorafaelbraga" targe="_blank">ANTONIO RAFAEL BRAGA</a>
 </div>
