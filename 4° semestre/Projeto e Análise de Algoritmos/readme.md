@@ -62,3 +62,9 @@
 [Analise_Algoritmos_II_Ricardo_Campello.pdf](https://edisciplinas.usp.br/pluginfile.php/1799657/mod_resource/content/2/Analise_Algoritmos_II_Ricardo_Campello.pdf)
 
 [03 - Análise de Algoritmos (parte 3) - SCC201/501 - Introdução à Ciência de Computação II](http://wiki.icmc.usp.br/images/3/38/ICC2_03.AnalisedeAlgoritmos_parte3.pdf)
+
+[Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/)
+
+[Playlist: Design & Analysis of Algorithms](https://www.youtube.com/playlist?list=PLtg1mdkLERgnS8XNGU4irXk7dRuji61ZX)
+
+[Prova final do BFS](https://www.youtube.com/watch?v=gLz45jGzDDo)
