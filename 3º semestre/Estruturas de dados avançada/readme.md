@@ -66,3 +66,31 @@
 
 [O Que é Árvore AVL, Propriedades da Árvore AVL e Por que AVL é Balanceada | Estrutura de Dados #19
 ](https://www.youtube.com/watch?v=l8IBdCb2BWA)
+
+[B Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html)
+
+[Deixando a Fila de Prioridades mais genérica](https://www.youtube.com/watch?v=OSfFkNkZlew)
+
+[Reconstructing a Tree From Its Depth-First Traversals](https://www.baeldung.com/cs/reconstruct-tree-depth-first-traversals)
+
+[Preorder Successor of a Node in Binary Tree - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/preorder-successor-node-binary-tree/)
+
+[Estruturas de Dados e Algoritmos](https://joaoarthurbm.github.io/eda/posts/avl/)
+
+[Estruturas de Dados e Algoritmos](https://joaoarthurbm.github.io/eda/)
+
+[visualising data structures and algorithms through animation - VisuAlgo](https://visualgo.net/en)
+
+[List of Visual Tools to help with Data Structures and Algorithms - DEV Community](https://dev.to/prnvbirajdar/list-of-visual-tools-to-help-with-data-structures-and-algorithms-4nb2)
+
+[Árvores: estrutura de dados - com ilustrações e animações](https://algol.dev/arvores-estrutura-de-dados/)
+
+[Insertion in Binary Search Tree (BST) using RECURSIVE FUNCTION (Working with Diagram) | DSA](https://www.youtube.com/watch?v=x6t1lKzjGhY)
+
+[Estruturas de Dados](http://www.gpec.ucdb.br/pistori/disciplinas/ed/aulas_I/arvores.htm)
+
+[Relationship between number of nodes and height of binary tree - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/relationship-number-nodes-height-binary-tree/)
+
+[Apostila sobre Árvores.pdf](https://www.inf.ufpr.br/carmem/ci057/apostila.pdf)
+
+[Como descobrir a quantidade de nós de uma árvore binária?](https://wagnergaspar.com/como-descobrir-a-quantidade-de-nos-de-uma-arvore-binaria/)
