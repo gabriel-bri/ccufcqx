@@ -54,7 +54,7 @@ Status:| Disciplina: | Professor:
 Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Programação Funcional |
-:x: | Estrutura de Dados Avançada | <a href="https://github.com/araruna" target="_blank">ARTHUR RODRIGUES ARARUNA</a>
+:heavy_check_mark: | Estrutura de Dados Avançada | <a href="https://github.com/araruna" target="_blank">ARTHUR RODRIGUES ARARUNA</a>
 :x: | Linguagens Formais e Autômatos |
 :heavy_check_mark: | Lógica para Computação | MARIA VIVIANE DE MENEZES
 :heavy_check_mark: | Probabilidade e Estatística | ANTÔNIO JOEL RAMIRO DE CASTRO
