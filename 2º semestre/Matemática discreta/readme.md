@@ -4,6 +4,9 @@
 
 [Intermation - Discrete Math](https://www.youtube.com/playlist?list=PLxfrSxK7P38VHx7soDRSxmJd49xijfEiH)
 
+[Unidade 1 – Sentenças, Representação Simbólica,
+Tautologia, Contradição e Contingência.](https://www.uel.br/laboratorios/labsan/arquivosEliandro/apostila.pdf)
+
 [Matemática Discreta (Fundamentos Matemáticos para Computação)
 Professor Douglas Maioli](https://www.youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx)
 
