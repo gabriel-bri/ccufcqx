@@ -1,3 +1,5 @@
+# Recursos úteis para a disciplina
+
 [GitHub - Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser](https://github.com/gaurangsaini/sipser-computation-3rd-solutions/)
 
 [Linguagens Livres de Contexto](https://www.marcusramos.com.br/univasf/livro-lfa-slides/cap4.pdf)
