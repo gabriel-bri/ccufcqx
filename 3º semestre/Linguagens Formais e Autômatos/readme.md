@@ -10,8 +10,6 @@
 
 [UNIDADE 2: AUTÔMATOS E LINGUAGENS AULA 4: AUTÔMATOS COM PILHA](https://www.cin.ufpe.br/~lfsc/cursos/teoriadainformacao/unidade%202/cap%202_3%20-%20automato%20com%20pilha.pdf)
 
-https://www.cin.ufpe.br/~lfsc/cursos/teoriadainformacao/unidade%202/
-
 [EP2 - LFA - Regex (Ruby) - myCompiler](https://www.mycompiler.io/view/57mkKEiJX3J)
 
 [lfa:lab03-dfa-regexp [books]](https://ocw.cs.pub.ro/ppcarte/doku.php?id=lfa:lab03-dfa-regexp)
