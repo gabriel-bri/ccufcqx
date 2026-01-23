@@ -1,9 +1,11 @@
 # Recursos úteis para a disciplina
-[NADIA - Natural DeductIon proof Assistant
-](https://sistemas.quixada.ufc.br/nadia/index.jsp)
+[NADIA - Natural DeductIon proof Assistant](https://sistemas.quixada.ufc.br/nadia/index.jsp)
 
 [Lógica para Computação - Davi Romero de Vasconcelos -  Playlist
 ](https://www.youtube.com/playlist?list=PLfOnKvd6pFiq_BUI-llPhDeGR55P6nHfr)
+
+[Unidade 1 – Sentenças, Representação Simbólica,
+Tautologia, Contradição e Contingência.](https://www.uel.br/laboratorios/labsan/arquivosEliandro/apostila.pdf)
 
 [Baruch Logic - Várias aulas de lógica](https://www.youtube.com/@baruchlogic4417/playlists)
 
