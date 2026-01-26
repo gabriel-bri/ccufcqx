@@ -4,6 +4,9 @@
 
 [SLIDES Stanford (Complementares) - Problema de Travessia com Cabra, Repolho e Lobo](https://stanford-cs221.github.io/summer2023/modules/module.html#include=search%2Fmodeling.js&slideId=search-modeling&level=0)
 
+
+[Algoritmo Colônia de Formigas - Aplicado Ao Problema do Caixeiro Viajante](https://www.youtube.com/watch?v=sDBe6R0axAY)
+
 [4.0 - Algoritmos gulosos.pdf](https://alexandrechecoli.github.io/1-meta/Materiais/Apresentacoes/4.0%20-%20Algoritmos%20gulosos.pdf)
 
 [cse473au22-Search.pdf](https://courses.cs.washington.edu/courses/cse473/22au/slides/cse473au22-Search.pdf)

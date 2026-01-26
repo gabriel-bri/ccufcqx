@@ -2,6 +2,8 @@
 
 [Time complexity and Big-Oh notation: exercises](https://www.cs.auckland.ac.nz/courses/compsci220s1t/lectures/lecturenotes/GG-lectures/220exercises1.pdf)
 
+[Menor custo de multiplicação de matrizes em cadeia (Programação Dinâmica)](https://www.youtube.com/watch?v=D2u1-yQwRIQ)
+
 [Playlist: Projeto e Análise de Algoritmos (2021) - por Professor Mario](https://www.youtube.com/playlist?list=PL5TPkym335qzuWNv6DJKfZY8zZ778s-Ho)
 
 [Danilo Medeiros Eler Website -- Projeto e Análise de Algoritmos (PAA)](https://daniloeler.github.io/teaching/PAA2020/index.html)

@@ -64,6 +64,8 @@
 
 [video animação BFS](https://youtu.be/x-VTfcmrLEQ)
 
+[Método fácil para percursos em Árvore Binária (Pré-Ordem, Em-Ordem, Pós-Ordem)](https://www.youtube.com/watch?v=T4okc8dDlek)
+
 [O Que é Árvore AVL, Propriedades da Árvore AVL e Por que AVL é Balanceada | Estrutura de Dados #19
 ](https://www.youtube.com/watch?v=l8IBdCb2BWA)
 

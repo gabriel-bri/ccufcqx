@@ -9,6 +9,12 @@ Tautologia, Contradição e Contingência.](https://www.uel.br/laboratorios/labs
 
 [Baruch Logic - Várias aulas de lógica](https://www.youtube.com/@baruchlogic4417/playlists)
 
+[Exercícios de Codificação - Lógica de Predicados](https://www.youtube.com/watch?v=6gLp24dgA-U)
+
+[Lógica Proposicional -  Subfórmulas](https://www.youtube.com/watch?v=_BHMi5AAekY)
+
+[Colocação e Remoção de Parênteses na Lógica Clássica Proposicional](https://www.youtube.com/watch?v=gnvbOB9d4S8)
+
 [Philosophical Logic - TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6AhsNuxXP3D-45Is96L8sdSG)
 
 [A Short Course on Natural Deduction: Fitch-style proofs for Propositional and Predicate Logic

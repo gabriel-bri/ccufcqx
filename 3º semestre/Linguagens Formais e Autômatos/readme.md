@@ -2,6 +2,20 @@
 
 [GitHub - Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser](https://github.com/gaurangsaini/sipser-computation-3rd-solutions/)
 
+[Autômatos com Pilha Não-Deterministicos](https://www.youtube.com/watch?v=6iFU1wa7HQw)
+
+[How to Union two Regular Languages with the Product Construction](https://www.youtube.com/watch?v=CWei4YjTj90)
+
+[Linguagens Formais e Autômatos Prof. Esdras Bispo Jr.](https://www.youtube.com/playlist?list=PLK1rDQn03VUrZ_UWdTEhQjHla1LsciFVM)
+
+[Regex to NFA Conversion Isn't Hard! (Sipser 1.28a)](https://www.youtube.com/watch?v=VbR1mGdP99s)
+
+[Lec-17: DFA for Even a and Even b | Even a Odd b | Odd a and Even b | Odd a Odd b | TOC](https://www.youtube.com/watch?v=WKPeYsuBpm4)
+
+[Lema do Bombeamento para Linguagens Regulares (Pumping Lemma)](https://www.youtube.com/watch?v=MaRdDPivgYg)
+
+[Lema do Bombeamento para Linguagens Regulares](https://www.youtube.com/watch?v=4EsUC6rbQ-w)
+
 [Linguagens Livres de Contexto](https://www.marcusramos.com.br/univasf/livro-lfa-slides/cap4.pdf)
 
 [Index of /~lfsc/cursos/teoriadainformacao/unidade 1](https://www.cin.ufpe.br/~lfsc/cursos/teoriadainformacao/unidade%201/)

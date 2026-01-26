@@ -4,6 +4,12 @@
 
 [CNUM-011 Método da fatoração LU  [Sistemas de Equações Lineares]](https://www.youtube.com/watch?v=AtxPrtmo0OA)
 
+[PQ a MATRIZ de ROTAÇÃO é ORTOGONAL? | EP010](https://www.youtube.com/watch?v=A00IkHoYHhY)
+
+[ÁLGEBRA LINEAR - Aula 13.1 - Vetores - Exercícios de Vetores Perpendiculares](https://www.youtube.com/watch?v=PZx1frIZhGs)
+
+[Eliminação Gaussiana e Eliminação de Gauss-Jordan - Exercícios Resolvidos - Álgebra Linear - Aula 14](https://www.youtube.com/watch?v=3je5xpLlQHU)
+
 [Playlist: Álgebra Linear - Prof. Grings - Pivô e Escalonamento - Dependência Linear - Espaço Vetorial - Transformação linear (curso em formação)](https://youtube.com/playlist?list=PLE6qFDd4x9w_Q3Dsh6j2i6Q1IxSyvyTnC)
 
 [Douglas Maioli - Álgebra Linear](https://www.youtube.com/playlist?list=PLrOyM49ctTx8jq2NR2ADeWSvMBOcZBO9q)

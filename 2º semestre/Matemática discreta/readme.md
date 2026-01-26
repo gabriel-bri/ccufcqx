@@ -4,6 +4,10 @@
 
 [Intermation - Discrete Math](https://www.youtube.com/playlist?list=PLxfrSxK7P38VHx7soDRSxmJd49xijfEiH)
 
+[INDUÇÃO FINITA - Desigualdade - Como modelar a prova por indução matemática - Passo a passo](https://www.youtube.com/watch?v=j4CPHW1KOKM)
+
+[Soma dos Números Ímpares e Quadrados Perfeitos | Matemática Rio](https://www.youtube.com/watch?v=o9kKoihoQ90)
+
 [Unidade 1 – Sentenças, Representação Simbólica,
 Tautologia, Contradição e Contingência.](https://www.uel.br/laboratorios/labsan/arquivosEliandro/apostila.pdf)
 

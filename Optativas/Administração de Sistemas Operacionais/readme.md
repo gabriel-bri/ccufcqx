@@ -1,6 +1,6 @@
 # Recursos úteis para a disciplina
 
-[Repositório LinuxURL](https://github.com/unixerius/XK0-005/tree/main)
+[Repositório Linux](https://github.com/unixerius/XK0-005/tree/main)
 
 [Setting Up Ubuntu Server — A Guide for Network Engineers
 ](https://medium.com/@sydasif78/setting-up-ubuntu-server-a-guide-for-network-engineers-a0e58d6a7a8a)
