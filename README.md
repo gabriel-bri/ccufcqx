@@ -3,7 +3,7 @@
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 
-![79%](https://progress-bar.xyz/79/?title=Progresso+no+curso:)
+![85%](https://progress-bar.xyz/85/?title=Progresso+no+curso:)
 
 #
 > ### Algumas observações importantes:
@@ -55,7 +55,7 @@ Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Programação Funcional |
 :heavy_check_mark: | Estrutura de Dados Avançada | <a href="https://github.com/araruna" target="_blank">ARTHUR RODRIGUES ARARUNA</a>
-:x: | Linguagens Formais e Autômatos |
+:heavy_check_mark: | Linguagens Formais e Autômatos | CARLOS ROBERTO RODRIGUES FILHO
 :heavy_check_mark: | Lógica para Computação | MARIA VIVIANE DE MENEZES
 :heavy_check_mark: | Probabilidade e Estatística | ANTÔNIO JOEL RAMIRO DE CASTRO
 
@@ -82,7 +82,7 @@ Status:| Disciplina: | Professor:
 Status:| Disciplina: | Professor:
 :---:|:---|:---
 :x: | Compiladores |
-:x: | Computação Gráfica |
+:heavy_check_mark: | Computação Gráfica | RUBENS FERNANDES NUNES
 :x: | Matemática Computacional |
 :heavy_check_mark: | Redes de Computadores| ARTHUR DE CASTRO CALLADO
 :heavy_check_mark: | Desenvolvimento de Software para Web|<a href="" targe="_blank">JEFFERSON DE CARVALHO SILVA</a>
@@ -98,7 +98,7 @@ Status:| Disciplina: | Professor:
 :heavy_check_mark: | Engenharia de Software | ANTONIA DIANA BRAGA NOGUEIRA
 :heavy_check_mark: | Interface Humano-Computador | MARCELO MARTINS DA SILVA
 :heavy_check_mark: | Sistemas Distribuídos | <a href="https://github.com/antoniorafaelbraga" targe="_blank">ANTONIO RAFAEL BRAGA</a>
-:x: | Inteligência Artificial 
+:heavy_check_mark: | Inteligência Artificial | SAMY SOARES PASSOS DE SÁ
 :x: | Teoria da Computação |
 
 </div>
