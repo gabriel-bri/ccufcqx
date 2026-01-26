@@ -4,6 +4,13 @@
 
 [Menor custo de multiplicação de matrizes em cadeia (Programação Dinâmica)](https://www.youtube.com/watch?v=D2u1-yQwRIQ)
 
+
+[PID - PAA](https://drive.google.com/drive/folders/1bEb4AUaSE-vNjOj2YcjOh6oeyO9LcG0S)
+
+[GEMP](https://drive.google.com/drive/folders/1tkF-WPusUtmIdv3UPAsmP2WLZfp28fxz)
+
+[PAA - Atílio](https://drive.google.com/drive/folders/1m0G5rylpdMD6QT1MQ7vrSGy0EN7ArKrI)
+
 [Playlist: Projeto e Análise de Algoritmos (2021) - por Professor Mario](https://www.youtube.com/playlist?list=PL5TPkym335qzuWNv6DJKfZY8zZ778s-Ho)
 
 [Danilo Medeiros Eler Website -- Projeto e Análise de Algoritmos (PAA)](https://daniloeler.github.io/teaching/PAA2020/index.html)
