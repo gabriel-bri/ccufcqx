@@ -2,6 +2,8 @@
 
 [Github - Erick Freitas - Computação gráfica](https://github.com/ErickDev1218/Computacao-Grafica)
 
+[Github - Judson Santiago - Computação gráfica](https://github.com/JudsonSS/CG)
+
 [Dropbox da Disciplina](https://www.dropbox.com/scl/fo/irw87o53my28o5of8vkm0/ACgKcS2feS02q5VgivV13WU?rlkey=5oy4ii9bf1yjuld1zqce0dmoi&e=4&dl=0)
 
 [CG_07_Projecoes.pdf](https://marciobueno.com/arquivos/ensino/cg/CG_07_Projecoes.pdf)
