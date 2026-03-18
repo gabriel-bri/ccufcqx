@@ -7,6 +7,12 @@
 [Unidade 1 – Sentenças, Representação Simbólica,
 Tautologia, Contradição e Contingência.](https://www.uel.br/laboratorios/labsan/arquivosEliandro/apostila.pdf)
 
+[Lógica para Computação UTFPR](https://www.youtube.com/playlist?list=PLF5ttO8F-IsRGv0ad2ckPPpJALPG5N7jp)
+
+[Livro utilizado](http://staff.ustc.edu.cn/~huangwc/book/LogicInCS.pdf)
+
+[Lógica para Computação por KyllerCG](https://www.youtube.com/playlist?list=PLxsW1pbl6DnWCTxL4xJsX1EmZGgtSLKUm)
+
 [Baruch Logic - Várias aulas de lógica](https://www.youtube.com/@baruchlogic4417/playlists)
 
 [Exercícios de Codificação - Lógica de Predicados](https://www.youtube.com/watch?v=6gLp24dgA-U)
