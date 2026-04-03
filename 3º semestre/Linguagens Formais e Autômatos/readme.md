@@ -2,6 +2,10 @@
 
 [Livro utilizado - Introdução a teoria da computação](https://www.kufunda.net/publicdocs/Introdu%C3%A7%C3%A3o%20%C3%A0%20Teoria%20da%20Computa%C3%A7%C3%A3o%20(Michael%20Sipser).pdf)
 
+[Linguagens Formais e Autômatos por Davi Romero de Vasconcelos](https://www.youtube.com/playlist?list=PLfOnKvd6pFiod6_1QBMLqVKFqYdU9H3Rc)
+
+[Linguagens Formais e Autômatos 2020.2 por Wladimir Tavares](https://www.youtube.com/playlist?list=PLPpVvPOjdertWZYOevturqOtUdIEQ_5hS)
+
 [GitHub - Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser](https://github.com/gaurangsaini/sipser-computation-3rd-solutions/)
 
 [Autômatos com Pilha Não-Deterministicos](https://www.youtube.com/watch?v=6iFU1wa7HQw)
