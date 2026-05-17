@@ -6,6 +6,8 @@
 
 [Linguagens Formais e Autômatos 2020.2 por Wladimir Tavares](https://www.youtube.com/playlist?list=PLPpVvPOjdertWZYOevturqOtUdIEQ_5hS)
 
+[USP - [ACH2043-1] Introdução à Teoria da Computação](https://eaulas.usp.br/portal/course.action?course=16255)
+
 [GitHub - Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser](https://github.com/gaurangsaini/sipser-computation-3rd-solutions/)
 
 [Autômatos com Pilha Não-Deterministicos](https://www.youtube.com/watch?v=6iFU1wa7HQw)
