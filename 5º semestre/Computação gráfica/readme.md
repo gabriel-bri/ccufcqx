@@ -92,7 +92,17 @@
 
 [2D Rotations | Articulated Robotics](https://articulatedrobotics.xyz/tutorials/coordinate-transforms/rotation-matrices-2d/#geogebra)
 
-[2D Rotations | Articulated Robotics](https://articulatedrobotics.xyz/tutorials/coordinate-transforms/rotation-matrices-2d/#geogebra)
+[3D Rotations | Articulated Robotics](https://articulatedrobotics.xyz/tutorials/coordinate-transforms/rotations-3d/#geogebra)
+
+[geogebra - Calculadora gráfica 2D](https://www.geogebra.org/graphing?lang=pt)
+
+[geogebra - Calculadora gráfica 3D](https://www.geogebra.org/3d?lang=pt)
+
+[wolfram - 2D Rotation Using Matrices](https://demonstrations.wolfram.com/2DRotationUsingMatrices/)
+
+[geeksforgeeks - Rotation Matrix](https://www.geeksforgeeks.org/maths/rotation-matrix/)
+
+[Calculadora de Matrizes](https://matrixcalc.org/pt/)
 
 [Rotation Matrix: Example Exercise - Step-by-Step!](https://www.youtube.com/watch?v=ipTekpr9kx8)
 
