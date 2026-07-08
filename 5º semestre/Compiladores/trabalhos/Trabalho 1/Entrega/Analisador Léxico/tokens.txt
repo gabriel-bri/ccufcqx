@@ -1,0 +1,20 @@
+NUM     palavra reservada para declaracao de variavel inteira
+TEXT    palavra reservada para declaracao de variavel texto
+BOOL    palavra reservada para declaracao de variavel booleana
+SHOW    palavra reservada para exibir expressoes
+TRUE    literal booleano verdadeiro
+FALSE   literal booleano falso
+VAR     identificador de variavel definido pelo usuario
+NUM_LIT literal numerico inteiro
+CONST   literal string entre aspas duplas
+EQ      operador de atribuicao (=) ou comparacao simples
+EQ_EQ   operador de igualdade (==)
+ADD     operador aritmetico de adicao (+)
+SUB     operador aritmetico de subtracao (-)
+MUL     operador aritmetico de multiplicacao (*)
+DIV     operador aritmetico de divisao (/)
+GT      operador relacional maior que (>)
+LT      operador relacional menor que (<)
+SEMICOLON  delimitador de instrucao (;)
+LPAREN  parentese esquerdo (()
+RPAREN  parentese direito ())
