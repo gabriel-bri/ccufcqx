@@ -3,7 +3,7 @@
 
 Repositório do meu curso de Ciência da Computação iniciado em 2020.1
 
-![85%](https://progress-bar.xyz/85/?title=Progresso+no+curso:)
+![95%](https://progress-bar.xyz/95/?title=Progresso+no+curso:)
 
 #
 > ### Algumas observações importantes:
@@ -42,7 +42,7 @@ Status:| Disciplina: | Professor:
 :heavy_check_mark: | Programação Orientada a Objetos | <a href="https://github.com/liviaalmada" target="_blank">LIVIA ALMADA CRUZ</a> 
 :heavy_check_mark: | Sistemas Operacionais | CRISTIANO BACELAR DE OLIVEIRA 
 :heavy_check_mark: | Estrutura de Dados| <a href="https://github.com/senapk" target="_blank">DAVID SENA OLIVEIRA</a>, <a href="https://github.com/Atilio-Luiz" target="_blank">ATILIO GOMES LUIZ</a>
-:x: | Cálculo Diferencial e Integral I |
+:heavy_check_mark: | Cálculo Diferencial e Integral I | ANDRÉ RIBEIRO BRAGA
 :heavy_check_mark: | Matemática Discreta | LUCAS ISMAILY BEZERRA FREITAS
 
 </div>
@@ -53,7 +53,7 @@ Status:| Disciplina: | Professor:
 
 Status:| Disciplina: | Professor:
 :---:|:---|:---
-:x: | Programação Funcional |
+:heavy_check_mark: | Programação Funcional | RICARDO REIS PEREIRA
 :heavy_check_mark: | Estrutura de Dados Avançada | <a href="https://github.com/araruna" target="_blank">ARTHUR RODRIGUES ARARUNA</a>
 :heavy_check_mark: | Linguagens Formais e Autômatos | CARLOS ROBERTO RODRIGUES FILHO
 :heavy_check_mark: | Lógica para Computação | MARIA VIVIANE DE MENEZES
@@ -71,7 +71,7 @@ Status:| Disciplina: | Professor:
 :heavy_check_mark: | Linguagens de Programação | LUCAS ISMAILY BEZERRA FREITAS
 :heavy_check_mark: | Projeto e Análise de Algoritmos | <a href="https://github.com/fabiocsd" target="_blank">FÁBIO CARLOS SOUSA DIAS</a>
 :heavy_check_mark: | Álgebra Linear | ANDRÉ RIBEIRO BRAGA
-:heavy_check_mark: | Análise e Projeto de Sistemas|ENYO JOSE TAVARES GONCALVES
+:heavy_check_mark: | Análise e Projeto de Sistemas| ENYO JOSE TAVARES GONCALVES
 
 </div>
 
@@ -81,9 +81,9 @@ Status:| Disciplina: | Professor:
 
 Status:| Disciplina: | Professor:
 :---:|:---|:---
-:x: | Compiladores |
+:heavy_check_mark: | Compiladores | LUCAS ISMAILY BEZERRA FREITAS
 :heavy_check_mark: | Computação Gráfica | RUBENS FERNANDES NUNES
-:x: | Matemática Computacional |
+:heavy_check_mark: | Matemática Computacional | RICARDO REIS PEREIRA
 :heavy_check_mark: | Redes de Computadores| ARTHUR DE CASTRO CALLADO
 :heavy_check_mark: | Desenvolvimento de Software para Web|<a href="" targe="_blank">JEFFERSON DE CARVALHO SILVA</a>
 
@@ -108,8 +108,8 @@ Status:| Disciplina: | Professor:
 
 Status:| Disciplina: | Professor:
 :---:|:---|:---
-:x: | Projeto de Pesquisa Científica e Tecnológica | 
-:x: | Trabalho de Conclusão de Curso I |
+:heavy_check_mark: | Projeto de Pesquisa Científica e Tecnológica | MARCOS DEVANER DO NASCIMENTO 
+:heavy_check_mark: | Trabalho de Conclusão de Curso I | MICHEL SALES BONFIM
 :heavy_check_mark: | Estágio Supervisionado I | <a href="https://github.com/regispires" targe="_blank">REGIS PIRES MARAGALHÃES</a>
 :heavy_check_mark: | Empreendedorismo | MARCELO MARTINS DA SILVA
 
