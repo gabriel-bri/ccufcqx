@@ -101,8 +101,7 @@ série - LIMITES - DERIVADAS - INTEGRAIS](https://www.youtube.com/playlist?list=
 
 [[Site: cursos.ime.unicamp.br]](https://cursos.ime.unicamp.br/disciplinas/calculo/)
 
-[Exercícios de derivadas (com gabarito respondido e explicado)
- - Toda Matéria](https://www.todamateria.com.br/exercicios-de-derivadas-com-gabarito-respondido-e-explicado/)
+[Exercícios de derivadas - com gabarito respondido e explicado- - Toda Matéria](https://www.todamateria.com.br/exercicios-de-derivadas-com-gabarito-respondido-e-explicado/)
  
 [Derivada - Lista I.pdf](https://grupos.moodle.ufsc.br/pluginfile.php/999190/mod_resource/content/3/Derivada%20-%20Lista%20I.pdf)
 
