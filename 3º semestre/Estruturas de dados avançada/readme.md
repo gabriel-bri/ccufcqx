@@ -50,6 +50,28 @@
 
 [video unordered_map em C++](https://www.youtube.com/watch?v=EeBivX5uORU)
 
+[Hashing Separate Chaining Animation by Y. Daniel Liang](https://liveexample.pearsoncmg.com/liang/animation/web/SeparateChaining.html)
+
+[Open Addressing Hash Table - Função de Hashing Duplo](https://www.youtube.com/watch?v=zv2ba_CGQV4)
+
+[[C++17] Sobrecarga de Operadores - Parte 2](https://www.youtube.com/watch?v=EIFXzdjpdKk)
+
+[[C++17] Sobrecarga de Operadores - Parte 1](https://www.youtube.com/watch?v=LsrsdyAPfDU)
+
+[Animated Visualization BFS Algorithm: Teaching Aid](https://www.youtube.com/watch?v=x-VTfcmrLEQ)
+
+[Busca em largura](https://www.youtube.com/watch?v=lDvkB3s_Jnw)
+
+[Busca em profundidade](https://www.youtube.com/watch?v=e7eSEbY5wSE)
+
+[Aplicações das buscas em largura e em profundidade](https://www.youtube.com/watch?v=KQoh-wPqrb4)
+
+[Busca em digrafos](https://www.youtube.com/watch?v=uCX-ldXlku4)
+
+[Hash Table (Closed Addressing: Separate Chaining and Open Addressing: Linear Probing, Quadratic Probing, Double Hashing) - VisuAlgo](https://visualgo.net/en/hashtable?slide=1)
+
+[Binary Heap (Priority Queue) - VisuAlgo](https://visualgo.net/en/heap?slide=1)
+
 [heap de máximo online](https://visualgo.net/en/heap?slide=1)
 
 [heap de mínimo online](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
